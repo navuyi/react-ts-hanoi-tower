@@ -1,0 +1,15 @@
+.disk{
+  border-radius: 5px;
+  border: 1px dashed #090909;
+  height: 40px;
+  background-color: #4bb1d9;
+}
+
+.enabled{
+  background-color: green;
+  cursor: pointer;
+}
+
+.disabled{
+  cursor: not-allowed;
+}
